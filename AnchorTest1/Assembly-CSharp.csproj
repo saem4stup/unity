@@ -90,6 +90,7 @@
     <None Include="Assets\MRTK\StandardAssets\Fonts\LICENSE.txt" />
     <None Include="Assets\MRTK\Providers\License.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Butterfly (Animated)\Butterfly (Animated).txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\MRTK\StandardAssets\Shaders\MixedRealityStandard.shader" />
     <None Include="Assets\MRTK\StandardAssets\Shaders\MixedRealityTextMeshPro.shader" />
@@ -659,17 +660,38 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.XR.WindowsMR.Editor">
-      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.XR.WindowsMR.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.XR.WindowsMR">
-      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.XR.WindowsMR.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>E:/AR/AnchorTest1/AnchorTest1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
